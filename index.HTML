@@ -8,17 +8,24 @@
     <link rel = "stylesheet" href="style.css">
 </head>
 <body>
+    <div class="buttons">
     <img id="popcorn" src="popcorn.png" alt="flickster logo" />
-    <h1 id="title"> Flixster </h1>
+    <button id= "refresh" type="submit" onClick= "refreshPage()"> Reload Page </button>
+    </div>  
 
-    <form>
-        <input id="search-input" name="movie" placeholder="Enter a movie title" class="" />
-        <button type="submit" class="search-btn">Search</button>
-    </form>
+    <div class= "container"> 
+        <h1 id="title"> Flixster </h1>
 
+        <form>
+            <input id="search-input" name="movie" placeholder="Enter a movie title" class="" />
+            <button id="search-button" type="submit" class="search-btn">Search</button>
+        </form>
+    
+    </div>
+   
 
-    <div id="movie-area"></div>
-
+    <div id= "movie-area">
+    </div> 
 
     <div class="show-more-area">
         <button id="show-me-more-btn" type="button" class="search-btn hidden">Show more movies</button>
