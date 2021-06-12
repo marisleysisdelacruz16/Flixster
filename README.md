@@ -31,6 +31,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 <iframe src="https://giphy.com/embed/AMz9CmtFwej5T7y1sG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/AMz9CmtFwej5T7y1sG">via GIPHY</a></p>
 
+<iframe src="https://giphy.com/embed/1z1joPYtVB0yEBYoQg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1z1joPYtVB0yEBYoQg">via GIPHY</a></p>
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?

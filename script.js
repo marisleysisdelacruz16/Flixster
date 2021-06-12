@@ -34,6 +34,11 @@ async function getMovie(event) {
     const response = await fetch(apiUrl);
     const responseData = await response.json();
     console.log(responseData);
+
+    if(movieInput.value == '') {
+      refreshPage();
+    }
+
     movieArea.innerHTML = '';
     generateHTML(responseData);
 }
