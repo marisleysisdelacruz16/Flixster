@@ -1,6 +1,6 @@
 
 // Constant Variables
-const apiKey = '50aac023b9f971cfb83298efd849196b';
+//const apiKey = '50aac023b9f971cfb83298efd849196b';
 const apiUrl = 'https://api.themoviedb.org/3/movie/550?api_key=50aac023b9f971cfb83298efd849196b';
 
 const pageSize = 20;
